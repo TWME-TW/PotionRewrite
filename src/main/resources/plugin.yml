@@ -1,0 +1,4 @@
+name: PotionRewrite
+version: '${project.version}'
+main: dev.twme.potionrewrite.PotionRewrite
+api-version: '1.20'
